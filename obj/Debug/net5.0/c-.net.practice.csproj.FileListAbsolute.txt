@@ -1,0 +1,5 @@
+/Users/chadtarpey/Desktop/repos/c-.net.practice/obj/Debug/net5.0/c-.net.practice.csproj.AssemblyReference.cache
+/Users/chadtarpey/Desktop/repos/c-.net.practice/obj/Debug/net5.0/c-.net.practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chadtarpey/Desktop/repos/c-.net.practice/obj/Debug/net5.0/c-.net.practice.AssemblyInfoInputs.cache
+/Users/chadtarpey/Desktop/repos/c-.net.practice/obj/Debug/net5.0/c-.net.practice.AssemblyInfo.cs
+/Users/chadtarpey/Desktop/repos/c-.net.practice/obj/Debug/net5.0/c-.net.practice.csproj.CoreCompileInputs.cache
